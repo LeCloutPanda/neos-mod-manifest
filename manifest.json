@@ -5287,6 +5287,15 @@
                             "sha256": "e87a65650be25a3c229539d2f87ca7822f82b3c6ca4adafc76b5de29e97b0022"
                         }
                     ]
+                },
+                "1.1.4": {
+                    "releaseUrl": "https://github.com/LeCloutPanda/Customise/releases/tag/v1.1.4",
+                    "artifacts": [
+                        {
+                            "url": "https://github.com/LeCloutPanda/Customise/releases/tag/v1.1.4/CustomiseInspector.dll",
+                            "sha256": "168464525b2a05e6857d494dd2b53d1a0b3cc0f4acbb801210de0af570a4bff4"
+                        }
+                    ]
                 }
             }
         },
